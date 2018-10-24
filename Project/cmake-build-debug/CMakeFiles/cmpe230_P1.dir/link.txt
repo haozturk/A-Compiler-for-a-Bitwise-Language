@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/cmpe230_P1.dir/main.cpp.o CMakeFiles/cmpe230_P1.dir/Token.cpp.o  -o cmpe230_P1.exe -Wl,--out-implib,libcmpe230_P1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

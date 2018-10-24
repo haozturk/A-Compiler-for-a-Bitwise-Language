@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Alperen/Desktop/cmpe230 finish/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Alperen/Desktop/cmpe230 finish/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Alperen/Desktop/cmpe230 finish/cmake-build-debug/CMakeFiles/cmpe230_P1.dir
